@@ -16,7 +16,7 @@
 ## Intro
 ### What is the Tulip?
 
-The Tulip Creative Computer is an "affordable, portable and focused device for music, writing and coding."^[straight from [the Tulip's website](https://tulip.computer)]
+The Tulip Creative Computer is an "affordable, portable and focused device for music, writing and coding." (straight from [the Tulip's website](https://tulip.computer))
 
 though making games is not it's *main* purpose, but it has a pretty good game API. there is also a [web editor](https://tulip.computer/run/).
 ## Making a Game
