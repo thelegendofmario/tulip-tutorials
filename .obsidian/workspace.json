@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Game/Make a Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Make a Game"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e922e13191df5a13",
@@ -165,6 +166,7 @@
   },
   "active": "2b551a8c083ba54a",
   "lastOpenFiles": [
+    "().md",
     "Game/Make a Game.md",
     "README.md",
     "Untitled",
